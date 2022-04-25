@@ -1,7 +1,7 @@
 library(tidyverse)
 
 
-# sourse some packages and functions --------------------------------------
+# source some packages and functions --------------------------------------
 
 # you can use Ctr+Shift+R to insert new code section - these show up in the toc
 #you can source several packages and functions, listed in one file
